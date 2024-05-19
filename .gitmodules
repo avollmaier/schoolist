@@ -4,3 +4,6 @@
 [submodule "schoolist-ui"]
 	path = schoolist-ui
 	url = git@github.com:avollmaier/schoolist-ui.git
+[submodule "schoolist-deployment"]
+	path = schoolist-deployment
+	url = https://github.com/avollmaier/schoolist-deployment.git
