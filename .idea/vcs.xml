@@ -8,6 +8,7 @@
   </component>
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/schoolist-deployment" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/schoolist-edge-service" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/schoolist-ui" vcs="Git" />
   </component>
