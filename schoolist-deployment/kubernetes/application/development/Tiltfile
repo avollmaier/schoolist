@@ -1,0 +1,2 @@
+include('../../../../schoolist-edge-service/Tiltfile')
+include('../../../../schoolist-ui/Tiltfile')

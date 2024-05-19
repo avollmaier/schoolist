@@ -1,0 +1,8 @@
+version: "3.8"
+services:
+
+  schoolist-redis:
+    image: "redis"
+    container_name: "schoolist-redis"
+    ports:
+      - 6379:6379

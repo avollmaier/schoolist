@@ -1,0 +1,6 @@
+[submodule "schoolist-edge-service"]
+	path = schoolist-edge-service
+	url = git@github.com:avollmaier/schoolist-edge-service.git
+[submodule "schoolist-ui"]
+	path = schoolist-ui
+	url = git@github.com:avollmaier/schoolist-ui.git
