@@ -7,3 +7,6 @@
 [submodule "schoolist-deployment"]
 	path = schoolist-deployment
 	url = https://github.com/avollmaier/schoolist-deployment.git
+[submodule "schoolist-course-service"]
+	path = schoolist-course-service
+	url = git@github.com:avollmaier/schoolist-course-service.git

@@ -5,15 +5,16 @@
       <profile name="Gradle Imported" enabled="true">
         <outputRelativeToContentRoot value="true" />
         <processorPath useClasspath="false">
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.mapstruct/mapstruct-processor/1.5.5.Final/897f6f115930b936287bef552bf5fe28cc64717d/mapstruct-processor-1.5.5.Final.jar" />
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.projectlombok/lombok-mapstruct-binding/0.2.0/2f1cf9ced7b720ba4996c942b816669e63f0fa4f/lombok-mapstruct-binding-0.2.0.jar" />
           <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.projectlombok/lombok/1.18.32/17d46b3e205515e1e8efd3ee4d57ce8018914163/lombok-1.18.32.jar" />
           <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-configuration-processor/3.2.5/748cf1d49e04e20db1784e88f676657cd030d937/spring-boot-configuration-processor-3.2.5.jar" />
         </processorPath>
-        <module name="edge-service.main" />
+        <module name="course-service.main" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="edge-service.aot" target="21" />
-      <module name="edge-service.aotTest" target="21" />
+      <module name="user-service" target="21" />
     </bytecodeTargetLevel>
   </component>
 </project>
